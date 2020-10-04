@@ -24,6 +24,11 @@ You can find me on [![LinkedIn][2.1]][2], or on [![Medium][1.1]][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=android-content-resolver-SQL&theme=dark" />
 </a>
 
+<!--trebuchet-->
+<a href="https://github.com/ologe/trebuchet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=trebuchet&theme=dark" />
+</a>
+
 <!--flow test observer-->
 <a href="https://github.com/ologe/flow-test-observer">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=flow-test-observer&theme=dark" />
@@ -32,11 +37,6 @@ You can find me on [![LinkedIn][2.1]][2], or on [![Medium][1.1]][1].
 <!--material-studies-->
 <a href="https://github.com/ologe/material-studies">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=material-studies&theme=dark" />
-</a>
-
-<!--trebuchet-->
-<a href="https://github.com/ologe/trebuchet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=trebuchet&theme=dark" />
 </a>
 
 <!--icons with padding-->
