@@ -1,4 +1,52 @@
 ### Hi there 👋
+My name is Eugeniu Olog and I'm an Android Developer. currently working at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox).
+You can find me on [![Medium][1.1]][1],  or on [![LinkedIn][2.1]][2].
+
+## &#x1f4c8; GitHub Stats
+
+<!--top langs-->
+<a href="https://github.com/ologe/ologe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ologe&hide=ruby,objective-c&theme=dark" />
+</a>
+
+<!--stats-->
+<a href="https://github.com/ologe/ologe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ologe&show_icons=true&include_all_commits=true&line_height=27&count_private=true&theme=dark&custom_title=ologe%20stats" alt="ologe's GitHub Stats" />
+</a>
+
+<!--canaree-->
+<a href="https://github.com/ologe/canaree-music-player">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=canaree-music-player&theme=dark" />
+</a>
+
+<!--flow test observer-->
+<a href="https://github.com/ologe/flow-test-observer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=flow-test-observer&theme=dark" />
+</a>
+
+<!--material-studies-->
+<a href="https://github.com/ologe/material-studies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=material-studies&theme=dark" />
+</a>
+
+<!--trebuchet-->
+<a href="https://github.com/ologe/trebuchet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=trebuchet&theme=dark" />
+</a>
+
+<!--content-resolver-SQL-->
+<a href="https://github.com/ologe/android-content-resolver-SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ologe&repo=android-content-resolver-SQL&theme=dark" />
+</a>
+
+<!--icons with padding-->
+[1.1]: https://i.imgur.com/UA7Oh6z.png
+[2.1]: https://raw.githubusercontent.com/ologe/ologe/main/linkedin-3-16.png
+
+<!-- social -->
+[1]: https://medium.com/@eugeniu.olog
+[2]: https://www.linkedin.com/in/eugeniu-olog/
+
 
 <!--
 **ologe/ologe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
