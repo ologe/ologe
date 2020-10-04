@@ -41,7 +41,7 @@ You can find me on [![Medium][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 <!--icons with padding-->
 [1.1]: https://i.imgur.com/UA7Oh6z.png
-[2.1]: https://raw.githubusercontent.com/ologe/ologe/main/linkedin-3-16.png
+[2.1]: https://github.com/ologe/ologe/blob/main/linkedin-3-16.png
 
 <!-- social -->
 [1]: https://medium.com/@eugeniu.olog
