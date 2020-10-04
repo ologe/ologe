@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Banner](https://github.com/ologe/ologe/blob/main/banner.jpg)
 <p align='center'>
   
@@ -11,7 +10,9 @@
   
 </p>
 
-My name is Eugeniu Olog and I'm an Android Developer. I'm currently working at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox).
+Hi, I'm Eugeniu and I'm an Android Developer. Currently I'm learning Jetpack Compose
+
+💻 I'm currently working at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox).
 
 ## &#x1f4c8; GitHub Stats
 
@@ -24,27 +25,3 @@ My name is Eugeniu Olog and I'm an Android Developer. I'm currently working at Y
 <a href="https://github.com/ologe/ologe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ologe&hide=ruby,objective-c&theme=dark" />
 </a>
-
-<!--icons with padding-->
-[1.1]: https://github.com/ologe/ologe/blob/main/medium.png
-[2.1]: https://github.com/ologe/ologe/blob/main/linkedin-3-16.png
-
-<!-- social -->
-[1]: 
-[2]: 
-
-
-<!--
-**ologe/ologe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
