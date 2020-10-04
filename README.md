@@ -1,9 +1,17 @@
-![Roman Elizarov Banner](https://github.com/ologe/ologe/blob/main/banner.jpg)
-
-
 ### Hi there 👋
+![Banner](https://github.com/ologe/ologe/blob/main/banner.jpg)
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/eugeniu-olog/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@eugeniu.olog">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 My name is Eugeniu Olog and I'm an Android Developer. I'm currently working at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox).
-You can find me on [![LinkedIn][2.1]][2], or on [![Medium][1.1]][1].
 
 ## &#x1f4c8; GitHub Stats
 
@@ -22,8 +30,8 @@ You can find me on [![LinkedIn][2.1]][2], or on [![Medium][1.1]][1].
 [2.1]: https://github.com/ologe/ologe/blob/main/linkedin-3-16.png
 
 <!-- social -->
-[1]: https://medium.com/@eugeniu.olog
-[2]: https://www.linkedin.com/in/eugeniu-olog/
+[1]: 
+[2]: 
 
 
 <!--
