@@ -10,9 +10,9 @@
   
 </p>
 
-Hi, I'm Eugeniu. 
-- 💻 I work at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox).
-- ⚡ I'm currently learning Jetpack Compose.
+Hi, I'm Eugeniu
+- 💻 I work at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox)
+- ⚡ I'm currently learning Jetpack Compose
 - 🦄 Passionate about game development and 3D modelling
 
 ### GitHub Stats
