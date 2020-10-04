@@ -10,11 +10,12 @@
   
 </p>
 
-Hi, I'm Eugeniu and I'm an Android Developer. Currently I'm learning Jetpack Compose
+Hi, I'm Eugeniu. 
+- 💻 I work at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox).
+- ⚡ I'm currently learning Jetpack Compose.
+- 🦄 Passionate about game development and 3D modelling
 
-💻 I'm currently working at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox).
-
-## &#x1f4c8; GitHub Stats
+### GitHub Stats
 
 <!--stats-->
 <a href="https://github.com/ologe/ologe">
