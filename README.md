@@ -4,14 +4,14 @@ You can find me on [![LinkedIn][2.1]][2], or on [![Medium][1.1]][1].
 
 ## &#x1f4c8; GitHub Stats
 
-<!--top langs-->
-<a href="https://github.com/ologe/ologe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ologe&hide=ruby,objective-c&theme=dark" />
-</a>
-
 <!--stats-->
 <a href="https://github.com/ologe/ologe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ologe&show_icons=true&include_all_commits=true&line_height=27&count_private=true&theme=dark&custom_title=ologe%20stats" alt="ologe's GitHub Stats" />
+</a>
+
+<!--top langs-->
+<a href="https://github.com/ologe/ologe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ologe&hide=ruby,objective-c&theme=dark" />
 </a>
 
 <!--canaree-->
