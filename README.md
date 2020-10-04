@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Eugeniu Olog and I'm an Android Developer. currently working at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox).
-You can find me on [![Medium][1.1]][1],  or on [![LinkedIn][2.1]][2].
+My name is Eugeniu Olog and I'm an Android Developer. I'm currently working at YNAP on [Yoox](https://play.google.com/store/apps/details?id=com.yoox).
+You can find me on [![LinkedIn][2.1]][2], or on [![Medium][1.1]][1].
 
 ## &#x1f4c8; GitHub Stats
 
