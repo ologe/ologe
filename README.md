@@ -11,7 +11,7 @@
 </p>
 
 Hi, I'm Eugeniu
-- 💻 I work at [Bitpanda](http://bitpanda.com/)
+- 💻 I work at [Bitpanda](http://bitpanda.com/) 🐼
 - ⚡ I'm currently learning Jetpack Compose
 - 🦄 Passionate about game development and 3D modeling
 
